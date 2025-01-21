@@ -2,6 +2,10 @@
 
 This project demonstrates how to detect Rock, Paper, and Scissors gestures using the YOLOv8 and YOLOv11 models. The detection is integrated with a Tkinter-based graphical user interface (GUI), enabling real-time interaction with the system. The system identifies the hand gesture and displays the corresponding result.
 
+## Demo Video
+Watch the demo video on YouTube:  
+[Demo Video](https://youtu.be/VFkYDRcwSUY)
+
 ## Features
 - Real-time gesture recognition for Rock, Paper, and Scissors.
 - Utilizes YOLOv8 and YOLOv11 models for hand gesture detection.
